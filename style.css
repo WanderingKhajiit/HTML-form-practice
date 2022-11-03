@@ -1,0 +1,27 @@
+body {
+  padding: 10px;
+}
+
+.group{
+  display: flex;
+  flex-direction: row;
+  width: 96%;
+  
+  margin: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  
+}
+.indiv{
+  display: flex;
+  flex-direction: row;
+  width: 98%;
+  
+}
+
+input {
+  margin: 5px;
+}
+#low{
+
+}
